@@ -1,3 +1,6 @@
+#this is the most updated code for infonce training with 50 subjects and compressed to 50 components
+#can get competitable result compared wiht infomax
+
 import torch
 import numpy as np
 import os
